@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikaskumar Dubey</h1>
-<img align = 'right' alt = 'coding' width = "200" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align = 'right' alt = 'coding' width = "180" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvikasku" alt="dvikasku" /></a> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/vikaskumar-dubey-5759a01b3/**
